@@ -1,16 +1,13 @@
-### Hi there 👋
+# no way
+> <img width="500" alt="ok" src="https://user-images.githubusercontent.com/50788385/145232870-97535f50-0462-4be7-aff2-012051bf0490.png">
+>
+> *this is an extremely important addition to this readme*
 
-<!--
-**leCloudy/leCloudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+not cool enough to have an actual profile repository
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## hello
+> welcome to this dumpster fire of a profile!
+> 
+> just a bunch of projects
+> 
+> enjoy
